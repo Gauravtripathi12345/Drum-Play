@@ -10,7 +10,7 @@ document.querySelectorAll(".drum")[i].addEventListener("click",function(){
     makeSound(buttonInnerHTML);
     buttonAnimation(buttonInnerHTML);
 });
-
+// Hiiiiiii
 }
 // 2. Detecting keyboard press
 document.addEventListener("keypress",function(event){ // adding the eventListener to the entire document and passing a parameter to the function named "event" or 'e'that tells us which event triggered eventListener.
